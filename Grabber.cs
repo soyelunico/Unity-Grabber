@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 //Grabber.cs for Unity by klasik1da
+//Can be usefull for scaling
 
 public class Grabber : MonoBehaviour {
 
